@@ -23,7 +23,6 @@ This pipeline includes three core scripts:
 - **`tnseq_harmonize_wigs.py`**:  
   Ensures all `.wig` files share the same genomic positions by adding missing sites with zero counts—essential for downstream comparisons and visualization.
 
-Each script includes help options; run with `-h` to view usage details.
 
 ## Example Usage
 
@@ -31,3 +30,13 @@ Each script includes help options; run with `-h` to view usage details.
 python tnseq_prepmap.py -i reads.fastq -o sample1 -r reference.fasta
 python tnseq_combine_stats.py *_stats.txt
 python tnseq_harmonize_wigs.py *.wig
+
+## Citation
+
+If you use this pipeline in your research, please cite the following publication:
+
+> Juanpere Borras, M., Boekhorst, J., *et al.* (2025). [Title of your paper]. *Journal Name*. https://doi.org/xxxx
+
+Additionally, the code is archived at:  
+https://github.com/yourusername/Nanopore-TnSeq-Pipeline
+
