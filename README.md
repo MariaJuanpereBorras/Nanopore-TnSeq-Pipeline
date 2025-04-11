@@ -30,12 +30,13 @@ This pipeline includes three core scripts:
 python tnseq_prepmap.py -i reads.fastq -o sample1 -r reference.fasta
 python tnseq_combine_stats.py *_stats.txt
 python tnseq_harmonize_wigs.py *.wig
+```
 
 ## Citation
 
 If you use this pipeline in your research, please cite the following publication:
 
-> Juanpere Borras, M., Boekhorst, J., *et al.* (2025). [Title of your paper]. *Journal Name*. https://doi.org/xxxx
+> Juanpere Borras, M., Boekhorst, J., *et al.* (2025). *[Title of your paper]*. *[Journal Name]*. https://doi.org/xxxx
 
 Additionally, the code is archived at:  
 https://github.com/yourusername/Nanopore-TnSeq-Pipeline
