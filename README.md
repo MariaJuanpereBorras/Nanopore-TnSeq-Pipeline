@@ -34,10 +34,6 @@ python tnseq_harmonize_wigs.py *.wig
 
 ## Citation
 
-If you use this pipeline in your research, please cite the following publication:
-
-> Juanpere Borras, M., Boekhorst, J., *et al.* (2025). *[Title of your paper]*. *[Journal Name]*. https://doi.org/xxxx
-
-Additionally, the code is archived at:  
-https://github.com/yourusername/Nanopore-TnSeq-Pipeline
+If you use this pipeline in your research, please cite the following link:
+https://github.com/MariaJuanpereBorras/Nanopore-TnSeq-Pipeline
 
