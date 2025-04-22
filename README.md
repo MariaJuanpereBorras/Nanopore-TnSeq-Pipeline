@@ -37,3 +37,7 @@ python tnseq_harmonize_wigs.py *.wig
 If you use this pipeline in your research, please cite the following link:
 https://github.com/MariaJuanpereBorras/Nanopore-TnSeq-Pipeline
 
+## License
+
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
